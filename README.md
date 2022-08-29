@@ -29,4 +29,4 @@ Mac                      25 hrs 11 mins      ███████████�
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=Egg&color=auto&height=300&section=footer&text=PoPo&fontSize=90&animation=fadeIn&&rotate=180" />
+<img src="https://capsule-render.vercel.app/api?type=Egg&color=auto&height=300&section=footer&text=PoPo&fontSize=90&animation=fadeIn&reversal=true" />
