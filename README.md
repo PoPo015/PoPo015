@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&desc=popo)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=PoPo&fontSize=90&)
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2039%20mins-blue)
