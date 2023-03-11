@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,7 +23,7 @@ Mac                      1 hr 43 mins        ███████████�
 ```
 
 
- Last Updated on 10/03/2023 18:36:36 UTC
+ Last Updated on 11/03/2023 18:34:37 UTC
 <!--END_SECTION:waka-->
 
 
