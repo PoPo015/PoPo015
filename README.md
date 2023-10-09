@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2033%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -22,7 +22,7 @@ Sunday                   180 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     4 hrs 17 mins       ████████████████░░░░░░░░░   65.21 % 
+Java                     4 hrs 18 mins       ████████████████░░░░░░░░░   65.23 % 
 YAML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 XML                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 Gradle                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
@@ -36,7 +36,7 @@ Mac                      6 hrs 35 mins       ███████████�
 ```
 
 
- Last Updated on 08/10/2023 18:33:22 UTC
+ Last Updated on 09/10/2023 18:34:05 UTC
 <!--END_SECTION:waka-->
 
 
