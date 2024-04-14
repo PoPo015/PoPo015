@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%207%20mins-blue)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -37,7 +37,7 @@ Mac                      9 hrs 26 mins       ███████████�
 ```
 
 
- Last Updated on 13/04/2024 18:34:45 UTC
+ Last Updated on 14/04/2024 21:09:27 UTC
 <!--END_SECTION:waka-->
 
 
