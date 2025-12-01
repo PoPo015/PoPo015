@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C195%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C199%20hrs%2017%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1532 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Monday                   1533 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
 Tuesday                  1413 commits        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
 Wednesday                1608 commits        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
 Thursday                 1361 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
@@ -36,7 +36,7 @@ Mac                      13 hrs 4 mins       ███████████�
 ```
 
 
- Last Updated on 30/11/2025 18:41:52 UTC
+ Last Updated on 01/12/2025 18:46:45 UTC
 <!--END_SECTION:waka-->
 
 
