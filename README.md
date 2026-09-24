@@ -24,49 +24,49 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    8 hrs 23 mins       █████████████░░░░░░░░░░░░   51.57 % 
-Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Text                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    15 hrs 46 mins      █████████████████░░░░░░░░   67.17 % 
+Markdown                 4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 52 mins      ████████████████████████░   97.64 % 
-Codex Vscode             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Claude Code              22 hrs              ███████████████████████░░   93.68 % 
+Codex Vscode             1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Mac                      16 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 15 mins (100.0%)
+⏱ AI Coding Time: 23 hrs 29 mins (100.0%)
 
-✍️ 2,877 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,885 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 17,237,687 Input Tokens, 1,757,056 Output Tokens
+🔤 18,883,940 Input Tokens, 2,358,867 Output Tokens
 
-💵 $538.03 Estimated AI Cost This Week
+💵 $642.55 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 328 AI Prompts
+🧠 50 AI Sessions, 441 AI Prompts
 
-Opus                     1,850 lines         ████████████████░░░░░░░░░   63.71 % 
-GPT                      993 lines           █████████░░░░░░░░░░░░░░░░   34.19 % 
-Fable                    61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Opus                     1,479 lines         █████████████░░░░░░░░░░░░   50.79 % 
+GPT                      1,372 lines         ████████████░░░░░░░░░░░░░   47.12 % 
+Fable                    61 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,568 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 1,583 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 21:37:38 UTC
+ Last Updated on 24/09/2026 21:38:51 UTC
 <!--END_SECTION:waka-->
 
 
