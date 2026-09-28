@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C882%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C883%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-594%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-598%20hrs%2025%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -24,50 +24,51 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    10 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.94 % 
-Markdown                 9 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.36 % 
-Text                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.16 % 
+Markdown                 4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+HTML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 59 mins      ████████████████████████░   97.72 % 
-Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Claude Code              16 hrs 20 mins      ████████████████████████░   97.42 % 
+IntelliJ IDEA            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      23 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 31 mins (100.0%)
+⏱ AI Coding Time: 16 hrs 46 mins (100.0%)
 
-✍️ 3,930 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,634 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,952,085 Input Tokens, 2,362,066 Output Tokens
+🔤 13,925,632 Input Tokens, 1,474,468 Output Tokens
 
-💵 $613.44 Estimated AI Cost This Week
+💵 $374.21 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 445 AI Prompts
+🧠 44 AI Sessions, 360 AI Prompts
 
-Opus                     3,023 lines         ███████████████████░░░░░░   76.28 % 
-GPT                      858 lines           █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Fable                    82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     3,142 lines         █████████████████████░░░░   85.71 % 
+GPT                      463 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Fable                    61 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,009 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 1,767 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 21:29:30 UTC
+ Last Updated on 28/09/2026 23:24:28 UTC
 <!--END_SECTION:waka-->
 
 
