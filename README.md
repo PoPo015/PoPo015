@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C890%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-607%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-609%20hrs%2053%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -24,51 +24,51 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.59 % 
-Other                    6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Text                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 7 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
+Other                    6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Text                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+SQL                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 53 mins      ████████████████████████░   96.65 % 
-IntelliJ IDEA            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Claude Code              20 hrs 46 mins      ████████████████████████░   96.90 % 
+IntelliJ IDEA            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      19 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 24 mins (99.28%)
+⏱ AI Coding Time: 21 hrs 18 mins (99.35%)
 
-✍️ 3,988 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,202 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,425,155 Input Tokens, 2,477,910 Output Tokens
+🔤 20,637,157 Input Tokens, 2,963,957 Output Tokens
 
-💵 $334.18 Estimated AI Cost This Week
+💵 $369.13 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 438 AI Prompts
+🧠 52 AI Sessions, 464 AI Prompts
 
-Opus                     3,984 lines         █████████████████████████   99.67 % 
-GPT                      13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Opus                     4,467 lines         █████████████████████░░░░   85.64 % 
+Sonnet                   736 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+GPT                      13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,366 characters per prompt
+📚 Verbose Prompter — average 2,278 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 22:26:50 UTC
+ Last Updated on 01/10/2026 22:48:36 UTC
 <!--END_SECTION:waka-->
 
 
