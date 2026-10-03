@@ -24,9 +24,9 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 9 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.32 % 
-Other                    6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-Text                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Markdown                 9 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
+Other                    6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Text                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
@@ -44,15 +44,15 @@ Mac                      24 hrs 2 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 54 mins (99.42%)
+⏱ AI Coding Time: 23 hrs 53 mins (99.42%)
 
 ✍️ 5,308 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 22,298,330 Input Tokens, 3,190,628 Output Tokens
+🔤 22,262,840 Input Tokens, 3,190,041 Output Tokens
 
-💵 $390.92 Estimated AI Cost This Week
+💵 $390.59 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 539 AI Prompts
+🧠 53 AI Sessions, 539 AI Prompts
 
 Opus                     4,548 lines         █████████████████████░░░░   85.46 % 
 Sonnet                   761 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
@@ -68,7 +68,7 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/10/2026 22:24:24 UTC
+ Last Updated on 03/10/2026 21:35:50 UTC
 <!--END_SECTION:waka-->
 
 
