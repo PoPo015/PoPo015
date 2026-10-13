@@ -24,45 +24,41 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    42 mins             ██████████████░░░░░░░░░░░   55.02 % 
-Markdown                 21 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Java                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Java                     4 mins              ██████████████████████░░░   86.35 % 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 
 🔥 Editors: 
-Claude Code              1 hr 11 mins        ███████████████████████░░   92.60 % 
-IntelliJ IDEA            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+IntelliJ IDEA            4 mins              ██████████████████████░░░   86.35 % 
+Claude Code              0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 
 💻 Operating System: 
-Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (93.86%)
+⏱ AI Coding Time: 0 secs (13.65%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 833,974 Input Tokens, 56,943 Output Tokens
+🔤 76,689 Input Tokens, 2,916 Output Tokens
 
-💵 $7.06 Estimated AI Cost This Week
+💵 $0.40 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 22 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
+📝 Concise Prompter — average 27 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 22:11:33 UTC
+ Last Updated on 13/10/2026 00:52:33 UTC
 <!--END_SECTION:waka-->
 
 
