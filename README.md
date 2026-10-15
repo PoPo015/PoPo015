@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Egg&color=timeAuto&height=300&section=header&text=PoPo&fontSize=90&animation=fadeIn)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C896%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C899%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-615%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-618%20hrs%2059%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -24,47 +24,48 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 5 hrs 25 mins       █████████████░░░░░░░░░░░░   52.48 % 
-Text                     3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 5 hrs 12 mins       █████████████░░░░░░░░░░░░   52.54 % 
+Text                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 19 mins      █████████████████████████   99.73 % 
-Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              9 hrs 52 mins       █████████████████████████   99.64 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      10 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 21 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 54 mins (100.0%)
 
-✍️ 796 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,267 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,687,104 Input Tokens, 581,961 Output Tokens
+🔤 5,366,268 Input Tokens, 670,896 Output Tokens
 
-💵 $85.70 Estimated AI Cost This Week
+💵 $88.42 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 199 AI Prompts
+🧠 31 AI Sessions, 175 AI Prompts
 
-Opus                     760 lines           ████████████████████████░   95.48 % 
-Fable                    22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-GPT                      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Opus                     2,233 lines         █████████████████████████   98.41 % 
+Fable                    22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+GPT                      14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,137 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,226 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 21:50:30 UTC
+ Last Updated on 15/10/2026 21:34:34 UTC
 <!--END_SECTION:waka-->
 
 
